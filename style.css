@@ -26,8 +26,9 @@ body{
   margin-top: 40px;
   display: flex;
   align-items:start;
-  justify-content:  start;
+  justify-content: center;
   gap: 10px;
+  flex-direction: column;
   flex-wrap: wrap;
   margin-left: 10px;
   color: aliceblue;
