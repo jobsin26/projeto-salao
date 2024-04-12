@@ -174,7 +174,7 @@ margin-left: 10px;
 /* Estilização do menu mobile */
 .nav-bar{
   max-width: 0;
-  background-color: rgba(0, 0, 0, 0.485);
+  background-color: rgba(0, 0, 0, 0.809);
   backdrop-filter: blur(10px);
   position: absolute;
   left: 0;
