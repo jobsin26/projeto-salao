@@ -1,10 +1,11 @@
 * {
     margin: 0;
     padding: 0;
+      
+
 }
 body{
-  
-background-color: rgb(64 33 26);
+  background-color: rgb(64 33 26);
 }
 
 .header {
@@ -112,7 +113,7 @@ margin-left: 10px;
  
 }
 .input{
-  width: 370px;
+  width: 350px;
   height: 30px;
   border-radius: 12px;
   border: 2px solid black;
@@ -126,6 +127,7 @@ margin-left: 10px;
   display: flex;
   align-items: start;
   gap: 20px;
+ 
   
   
 }
@@ -145,7 +147,7 @@ margin-left: 10px;
 
 
 .product1{
-  font-size: 25px;
+  font-size: 20px;
   align-items: center;
   justify-content: center;
   
